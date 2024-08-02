@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "m4rkyu theme   ",
+        "label": "m4rkyu theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/m4rkyu theme   -color-theme.json"
+        "path": "./themes/m4rkyu theme-color-theme.json"
       }
     ]
   }
