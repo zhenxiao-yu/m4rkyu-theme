@@ -1,0 +1,21 @@
+{
+  "name": "m4rkyu-theme",
+  "displayName": "M4rkyu",
+  "description": "vscode theme by Mark Yu. for more projects visit m4rkyu.com",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "m4rkyu theme   ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/m4rkyu theme   -color-theme.json"
+      }
+    ]
+  }
+}
