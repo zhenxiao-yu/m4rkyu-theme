@@ -3,6 +3,24 @@
   "displayName": "M4rkyu",
   "description": "vscode theme by Mark Yu. for more projects visit m4rkyu.com",
   "version": "0.0.1",
+  "publisher":"ZhenXiao-Yu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhenxiao-yu/m4rkyu-theme"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "custom",
+    "m4rkyu",
+    "colors",
+    "syntax highlighting",
+    "editor theme",
+    "visual studio code",
+    "development",
+    "programming"
+  ],
   "engines": {
     "vscode": "^1.92.0"
   },
